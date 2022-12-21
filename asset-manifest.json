@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/css/main.073c9b0a.css",
+    "main.js": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/js/main.17b47ece.js",
+    "static/js/787.808b13c9.chunk.js": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/js/787.808b13c9.chunk.js",
+    "index.html": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/index.html",
+    "main.073c9b0a.css.map": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/css/main.073c9b0a.css.map",
+    "main.17b47ece.js.map": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/js/main.17b47ece.js.map",
+    "787.808b13c9.chunk.js.map": "/snehapatil455/spacex-API-upcoming-launches-viewer.git/static/js/787.808b13c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.17b47ece.js"
+  ]
+}
