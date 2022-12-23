@@ -44,7 +44,7 @@ background: #262626;
 box-shadow:  20px 20px 40px #202020,
              -20px -20px 40px #2c2c2c;
 border-radius: 10px;
-`;
+`;g
 
 const LaunchCardHeader = styled.div`
     // background-color: #000;
