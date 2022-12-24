@@ -17,13 +17,20 @@ const LaunchCard = ({ LaunchData }) => {
 <LaunchCardHeader>
     <p>
         {LaunchDate.day}/{LaunchDate.month}/{LaunchDate.year}
+
     </p>
-    <p>
-        {LaunchData.flight_number}
-    </p>
+    <p >
+        
+
+    {LaunchData.flight_number }  "||  <a href="https://www.abc.xyz/music/xxx"> More Info  </a> || "
+
+     
+       
+    </p> 
 </LaunchCardHeader>
 <LaunchCardBody>
     <h2>{LaunchData.name}</h2>
+    <h2>{LaunchData.details}</h2>
 
     <p>{LaunchDate.time} Local Time</p>
 </LaunchCardBody>
@@ -44,7 +51,7 @@ background: #262626;
 box-shadow:  20px 20px 40px #202020,
              -20px -20px 40px #2c2c2c;
 border-radius: 10px;
-`;g
+`;
 
 const LaunchCardHeader = styled.div`
     // background-color: #000;
